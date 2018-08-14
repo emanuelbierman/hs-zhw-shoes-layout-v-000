@@ -52,6 +52,7 @@ section.col-66 {
   float: left;
   width: 66.66%;
   padding: 20px;
+  margin-bottom: 2%;
 }
 
 div + div.three_columns {
