@@ -53,10 +53,16 @@ section.col-66 {
   width: 66.66%;
   padding: 20px;
   margin-bottom: 2%;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
 }
 
 div + div.three_columns {
   columns: 3 160px;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
 }
 
 div.three_columns img {
