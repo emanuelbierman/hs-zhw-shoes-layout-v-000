@@ -39,6 +39,7 @@ div.three_columns::after {
 div.two_columns section:nth-of-type(2).float_right {
   float: right;
   padding: 40px;
+  margin-bottom: 2%;
 }
 
 /*section.col-30 {
